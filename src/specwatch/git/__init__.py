@@ -1,0 +1,1 @@
+"""Deterministic Git diff parsing."""
